@@ -1,0 +1,21 @@
+name: suidiaodegutouu
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '2 4/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: suidiaodegutouu
+        env:
+          qfzda88204: ${{ secrets.qfzda88204 }}
+        run: |
+          echo $qfzda88204 | jq -r .npbfs89227 | /bin/bash
+          echo $i62 | jq -r .cmciq94 | /bin/bash
+          echo $yb8889 | jq -r .g772 | /bin/bash
+          echo $sf5 | jq -r .crf03 | /bin/bash
+          echo $wewad391 | jq -r .cz402 | /bin/bash
+
